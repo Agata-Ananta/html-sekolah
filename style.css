@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(4, 4, 141);
+}
+
+.header{
+    font-family: sans-serif;
+    line-height: 10px;
+    margin-left: 89px;
+    margin-right: 44px;
+    border-radius: 25px;
+    color: white;
+    margin-top: 50px;
+}
+
+.logo{
+    width: 125px;
+    margin-left: 89px;
+    margin-right: 64px;
+    margin-top: 0px;
+}
+
+.sejarah{
+    font-family: sans-serif;
+    background-color: white;
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border: 5px solid rgb(255, 251, 0);
+    border-radius: 25px;
+}
+
+.isisejarah{
+    margin-right: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.fotosejarah{
+    width: 600px;
+    margin-right: 20px;
+}
+
+.matrik{
+    font-family: sans-serif;
+    background-color: white;
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border: 5px solid rgb(255, 251, 0);
+    border-radius: 25px;
+}
+
+.isimatrik{
+    margin-right: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.fotomatrik{
+    width: 500px;
+}
+
+.kantin{
+    font-family: sans-serif;
+    background-color: white;
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border: 5px solid rgb(255, 251, 0);
+    border-radius: 25px;
+}
+
+.isikantin{
+    margin-right: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.fotokantin{
+    width: 600px;
+    max-width: 600px;
+}
+
+.perpus{
+    font-family: sans-serif;
+    background-color: white;
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border: 5px solid rgb(255, 251, 0);
+    border-radius: 25px;
+}
+
+.isiperpus{
+    margin-right: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.fotoperpus{
+    width: 600px;
+    max-width: 600px;
+}
+
+.cbt{
+    font-family: sans-serif;
+    background-color: white;
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    border: 5px solid rgb(255, 251, 0);
+    border-radius: 25px;
+}
+
+.isicbt{
+    margin-right: 20px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.fotocbt{
+    width: 600px;
+    max-width: 600px;
+}
+
+
+
